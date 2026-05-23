@@ -4,11 +4,6 @@ name: 01- 🔥 دانلود فایل ( test )
 on:
   workflow_dispatch:
     inputs:
-      activation_code:
-        description: '🔑 کد فعالسازی (فقط برای بار اول نیاز است)'
-        required: false
-        default: ''
-        type: string
       urls:
         description: '🔗 لینک های دانلود (با فاصله جدا کنید)'
         required: false
