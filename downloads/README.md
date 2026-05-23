@@ -1,0 +1,7 @@
+# Downloaded list :
+
+- [DeepSeek-R1-Distill-Qwen-1.5B-Q8_0](./DeepSeek-R1-Distill-Qwen-1.5B-Q8_0)
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
