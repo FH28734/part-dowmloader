@@ -525,7 +525,6 @@ jobs:
                   printf '%s\n' ""
                   printf '%s\n' "---"
                   printf '%s\n' ""
-                  printf '%s\n' "*This tool created by [avasam.ir](https://avasam.ir)*"
                 } > "$README_FILE"
 
                 echo "Created zip archive and README.md"
@@ -574,7 +573,6 @@ jobs:
             echo ""
             echo "---"
             echo ""
-            echo "*This tool created by [avasam.ir](https://avasam.ir)*"
           } > "downloads/README.md"
 
           echo "downloads/README.md created with list of downloaded files"
@@ -662,7 +660,6 @@ jobs:
               echo ""
               echo "---"
               echo ""
-              echo "*This tool created by [avasam.ir](https://avasam.ir)*"
             } >> "$DOWNLOADS_README"
 
             echo "Downloads README regenerated"
